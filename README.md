@@ -1,1 +1,1 @@
-# Temperature_Sensor-Python_DHT
+# Temperature_and_Humidity_Sensor-Python_DHT
